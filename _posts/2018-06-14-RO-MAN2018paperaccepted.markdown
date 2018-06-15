@@ -35,7 +35,7 @@ and pervasive anomalous conditions. Robust recovery systems
 will be key enablers for long-term autonomy in robot systems
 
 ### Two examples (pick-and-place and open-and-close-drawer) in which a human collaborator accidentally collides the robot. The introspection system identifies an anomaly (see bottom left plots) and triggers a recovery behavior (see the fluorescent node in the graph on the right)
-![I and My friends]({{site.baseurl}}/assets/img/pnp.jpg)
-![I and My friends]({{site.baseurl}}/assets/img/open_drawer.jpg)
+![pick-and-place]({{site.baseurl}}/assets/img/pnp.jpg)
+![open-and-close-drawer]({{site.baseurl}}/assets/img/open_drawer.jpg)
 
 
