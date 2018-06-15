@@ -5,9 +5,8 @@ date: 2018-06-14 13:32:20 +0300
 description: Regular paper: Recovering from External Disturbances in Online Manipulation through State-Dependent Revertive Recovery Policies
 img: spai_no_reco.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [HDP-HMM, Recovery, Introspection]
+tags: [HDP-HMM, Recovery, Introspection] # add tag
 ---
-
 ## Abstract
 Robots are increasingly entering uncertain and unstructured environments. Within these, robots are bound to
 face unexpected external disturbances like accidental human
