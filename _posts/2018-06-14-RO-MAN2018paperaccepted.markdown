@@ -2,7 +2,7 @@
 layout: post
 title: "IEEE Conference RO-MAN2018 paper accepted"
 date: 2018-06-14 13:32:20 +0300
-description: Regular paper: Recovering from External Disturbances in Online Manipulation through State-Dependent Revertive Recovery Policies
+description: Recovering from External Disturbances in Online Manipulation through State-Dependent Revertive Recovery Policies
 img: spai_no_reco.jpg # Add image post (optional)
 fig-caption: Our introspective system # Add figcaption (optional)
 tags: [HDP-HMM, Recovery, Introspection] # add tag
