@@ -12,8 +12,8 @@ Robots are increasingly entering uncertain and unstructured environments. Within
 organizes tasks as a sequence of nodes composed of internal modules such as motion generation and introspection. When an introspection module flags an anomaly, the recovery strategy is triggered and reverts the task execution by selecting a target node as a function of a state dependency chart. The new skill allows the robot to overcome the effects of the external disturbance and conclude the task. Our system recovers from accidental human and tool collisions in a number of tasks. Of particular importance is the fact that we test the robustness of the recovery system by triggering anomalies at each node in the task graph showing robust recovery everywhere in the task. We also trigger multiple and repeated anomalies at each of the nodes of the task showing that the recovery system can consistently recover anywhere in the presence of strong and pervasive anomalous conditions. Robust recovery systems will be key enablers for long-term autonomy in robot systems
 
 ### Two examples (pick-and-place and open-and-close-drawer) in which a human collaborator accidentally collides the robot. The introspection system identifies an anomaly (see bottom left plots) and triggers a recovery behavior (see the fluorescent node in the graph on the right)
-![pick-and-place](pnp.jpg)
-![open-and-close-drawer](open_drawer.jpg)
+![pick-and-place]({{site.baseurl}}/assets/img/pnp.jpg)
+![open-and-close-drawer]({{site.baseurl}}/assets/img/open_drawer.jpg)
 This work showed the ability of a system to recover from unmodeled and accidental external disturbances that can’t
 be anticipated. Such disturbances will be more common in shared human-robot workspaces. Our work demonstrated
 that our recovery strategy in connection with our previous introspection framework recovered 88% of the time from accidental human and tool collisions under single-anomaly and multiple-anomaly scenarios per node. The results indicate the
