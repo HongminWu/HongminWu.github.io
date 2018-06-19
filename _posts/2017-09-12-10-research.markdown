@@ -1,0 +1,24 @@
+---
+layout: post
+title: RESEARCH INTERESTS
+date: 2017-09-12 00:00:00 +0300
+description: Here, I will post the related reseach interests. # Add post description (optional)
+img: workflow.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Productivity, Workflow] # add tag
+---
+I am a PhD. Candidate at the Guangdong University of Technology, Guangzhou, China. The goal of my research is to enable personal robots to be deployed in the home and workplace with minimal intervention by robotics experts. In settings such as these, robots do not operate in isolation, but have continual interactions with people and objects in the world. With this in mind, we focus on developing algorithms to solve problems that robot learners encounter in real-world interactive settings. Thus, our work draws roughly equally from both machine learning and robotics, including topics such as learning from demonstration, manipulation, probabilistic safety, human-robot interaction, and deep learning.
+
+Specifically, I am interested in addressing the following questions:
+
+1. How can human demonstrations and interactions be used to bootstrap the learning process? 
+Writing code is an extraordinarily labor-intersive way to provide robots with human knowledge and usually requires highly-trained specialists. Learning from demonstration is an alternate paradigm for gaining human insight though faster, more natural means like task demonstrations and interactive corrections. However, such time-series data is often difficult to interpret, requiring the ability to segment activities and behaviors, understand context, and generalize from a small number of examples. How can demonstrations best be interpreted to leverage human insight into complex tasks? What kinds of demonstrations are most effective? How can robots take advantage of multiple types of cues like natural language, gestures, and gaze?
+
+2. How can robots autonomously improve their understanding of the world through embodied interaction? 
+Human demonstrations and interactions can provide a good baseline of knowledge, but do not necessarily cater to a robot's specific internal representations, uncertainties, and capabilities. Ideally, robots should directly reason about these factors and autonomously collect data to improve modeling and control of their environment. How can techniques like active learning or interactive perceptions be used to experiment intelligently? How can reinforcement learning algorithms best utilize robot experiences? How can we utilize large data sets that already exist, such as the recorded experiences of other robots, or language and video data on the web?
+
+3. How can robots learn from heterogenous, noisy interactions and still provide strong probabilistic guarantees of correctness and safety? 
+Robot learning from demonstration and interaction has seen much practical success, but often cannot provide strong performance guarantees. To be deployed in many real-world situations, such learners must be able to provide strong probabilistic guarantees of safe and correct performance, especially when working in proximity to humans. How can lifelong learning algorithms provide guarantees that a safety-critical task will be performed correctly, such as disposing of a hazardous material? Similarly, how can tasks like cleaning up a dinner table be continually optimized, while guaranteeing that no unsafe situations (such as collisions or spills) will occur with high probability? How can safety-aware algorithms be made sample efficient enough to work on real robotics problems?
+
+I just copy the this idescription from Scott Niekum's personal website (http://www.cs.utexas.edu/~sniekum/research.php), who is my online supervisor in my PhD. period. 
+![TODO]({{site.baseurl}}/assets/img/pnp.jpg)
