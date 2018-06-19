@@ -18,3 +18,10 @@ tags: [Task Representation, Multimodal Feature Engineering, Introspection Models
 
 ## Introspection Models Construction
 **note:** we should consider all the possible scienios for training a introspection model, espectically, in case of the classifier model.
+
+## Anomaly Detection
+
+## Anomaly Classification
+
+## Anomaly Recovery
+![Leveraging the human expertises]({{site.baseurl}}/assets/img/reco_intro.jpg)
