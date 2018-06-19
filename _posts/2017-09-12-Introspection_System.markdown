@@ -6,6 +6,7 @@ description: Our developed introspection system is divided into the following mo
 img: spai_with_reco.jpg # Add image post (optional)
 tags: [Task Representation, Multimodal Feature Engineering, Introspection Models Construction, Anomaly Detection, Anomaly Classification, Anomaly Recovery, Synthetic Multivariate Time Series Argumentation] # add tag
 ---
+![System Overview]({{site.baseurl}}/assets/img/spai_overview.jpg)
 ## Task Representation
 1. Finite State Machine + Dynamical Movement Primitives (Current Solution)
 
