@@ -8,4 +8,4 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-![Macbook]({{site.baseurl}}/assets/img/pnp.jpg)
+![TODO]({{site.baseurl}}/assets/img/pnp.jpg)
