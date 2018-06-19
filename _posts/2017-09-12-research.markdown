@@ -5,7 +5,7 @@ date: 2017-09-12 00:00:00 +0300
 description: reseach interests. # Add post description (optional)
 img: word_cloud.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Productivity, Workflow] # add tag
+tags: [Interests Objective] # add tag
 ---
 
 I am a PhD. Candidate at the Guangdong University of Technology, Guangzhou, China. The goal of my research is to enable personal robots to be deployed in the home and workplace with minimal intervention by robotics experts. In settings such as these, robots do not operate in isolation, but have continual interactions with people and objects in the world. With this in mind, we focus on developing algorithms to solve problems that robot learners encounter in real-world interactive settings. Thus, our work draws roughly equally from both machine learning and robotics, including topics such as learning from demonstration, manipulation, probabilistic safety, human-robot interaction, and deep learning.
