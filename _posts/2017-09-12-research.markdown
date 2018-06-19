@@ -3,7 +3,7 @@ layout: post
 title: RESEARCH INTERESTS
 date: 2017-09-12 00:00:00 +0300
 description: reseach interests. # Add post description (optional)
-img: me_in_front_of_baxter.jpg # Add image post (optional)
+img: word_cloud.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
