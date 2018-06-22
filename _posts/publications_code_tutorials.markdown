@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications, Code, Tutorials
-date: 2017-06-15 13:32:20 +0300
+date: 2000-06-15 13:32:20 +0300
 description: This post for sharing personal publications and correspounding materials)
 img:  publications.jpg
 ---
