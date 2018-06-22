@@ -2,7 +2,7 @@
 layout: post
 title: "Future Works"
 date: 2017-06-15 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: This post for recording the ongoing ideas and valuable project in the future in my personal perspective)
 img:  mac.jpg
 ---
 ### Post-doc
