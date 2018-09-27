@@ -8,7 +8,9 @@ tags: [Fundamentals of Machine Learning] # add tag
 ---
 ### About Train, Validation and Test Sets in Machine Learning
 Quote the base definitions from [Tarang Shah](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7)
-![A visualisation of the splits](tvt.png)
+
+![A visualisation of the splits](https://github.com/HongminWu/HongminWu.github.io/blob/master/assets/img/tvt.png)
+
 > **Training Dataset:** The sample of data used to fit the model.
 
 > **Validation Dataset:** The sample of data used to provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters. 
