@@ -1,0 +1,19 @@
+---
+layout: post
+title: Basis in Machine Learning
+date: 2018-09-25 00:00:00 +0300
+description: The basis algorithm and ideas in Machine Learning
+img: fML.jpg # Add image post (optional)
+tags: [Fundamentals of Machine Learning] # add tag
+---
+### About Train, Validation and Test Sets in Machine Learning
+Quote the base definitions from [Tarang Shah](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7)
+![A visualisation of the splits](tvt.png)
+> **Training Dataset:** The sample of data used to fit the model.
+
+> **Validation Dataset:** The sample of data used to provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters. 
+> The evaluation becomes more biased as skill on the validation dataset is incorporated into the model configuration.
+
+> ***Test Dataset***: The sample of data used to provide an unbiased evaluation of a final model fit on the training dataset.
+> The Test dataset provides the gold standard used to evaluate the model. 
+> It is only used once a model is completely trained(using the train and validation sets)
