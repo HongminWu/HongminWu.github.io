@@ -1,5 +1,7 @@
-Hongmin Wu, Ph.D.Candidate \\
-Biomimetic and Intelligent Robotics Lab. (BIRL) \\ 
+Hongmin Wu, Ph.D.Candidate 
+
+Biomimetic and Intelligent Robotics Lab. (BIRL) 
+
 School of Electromechanical Engineering
 Guangdong University of Technology
 Guangzhou, Guangdong, P.R.China 510006
